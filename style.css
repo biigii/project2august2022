@@ -10,6 +10,8 @@ body {
 .main-heading {
   color: red;
   background-color: yellow;
+  font-size: 40px;
+  text-align: center;
 }
 
 /* p {
