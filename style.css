@@ -1,5 +1,51 @@
-h1 {
+body {
+  background-color: lightgrey;
+}
+
+/* h1 {
+  color: red;
+  background-color: yellow;
+} */
+
+.main-heading {
   color: red;
   background-color: yellow;
 }
 
+/* p {
+  background-color: blue;
+  color: white;
+} */
+
+.text-1 {
+  color: tomato;
+  background-color: aqua;
+}
+
+.news {
+  color: white;
+  background-color: black;
+}
+
+.last-one {
+  color: red;
+  font-size: 30px;
+  background-color: beige;
+}
+
+#google-link {
+  color: pink;
+  background-color: cadetblue;
+}
+
+.google-link {
+  /* some more styling can go here */
+  color: black;
+  background-color: coral;
+}
+
+#news-link {
+  font-size: 25px;
+  background-color: burlywood;
+  color: whitesmoke;
+}
